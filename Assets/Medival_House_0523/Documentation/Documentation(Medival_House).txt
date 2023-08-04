@@ -1,0 +1,48 @@
+	
+--------------Medival House----------------------------
+
+This pack contains stylized 3d Model of Medival House.
+
+Technical Details:-
+		
+		- Models : House, Needle, Rock stand, Rocks
+		- Texture variations : 2(House), 1 for each other models				
+		- Vertex count : 982(House), 1140(Needle), 98(Rock stand), 168(Rocks)
+		- Tris count : 1776(House), 2240(Needle), (192)Rock stand, 320(Rocks)
+		- Unwrapped : Yes
+		- Used Material(s) : Universal Render Pipeline(URP/Lit)
+		- Texture maps : Albedo/Base Color, Normal
+		- Texture Size : 2048
+		
+
+Features:-
+	- Upgradable House : Items can be easily added or removed from house
+	- Items : Rocks, Rock stand, Needle
+	- Mobile/AR Ready asset
+	- Stylized textures
+	- Easy to change colors of Materials
+	- Demo scene,Guides included
+		
+Folder details:-
+
+	Materials : Where the materials for the model located.
+	
+	FBX : Contain FBX format of the 3d model.
+	
+	Textures : Contains Textures, that are in (.PNG) file format
+	
+	(Other folders - Prefabs, Scenes)
+
+How to use:-
+	
+	Simply drag and drop the prefab to your scene and use it.
+	(Prefab(s) located under 
+	Asset > Medival_House > Prefabs).
+
+..................................................................................
+
+About Us : "SR Studios Kerala", Game developing company located in Alappuzha, Kerala, India
+
+Contact : srstudioskerala@gmail.com
+
+................Thanks for downloading this package................................

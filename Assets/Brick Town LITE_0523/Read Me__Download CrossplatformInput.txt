@@ -1,0 +1,13 @@
+Thank you for download "Brick Town Lite "
+
+In order to everything works fine You need to download "Crossplatforminput", "vehicles", "Smooth Follow"and Effects from "Standard Assets" 
+
+effects used: 
+Depth of field
+Color correction curves
+Vignette and chromatic aberration
+Screen space ambient occlusion
+
+
+
+This is a small part of "Brick Town" Bundle, you can find it here http://u3d.as/uQ2
